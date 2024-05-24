@@ -4,7 +4,7 @@
   </a>
 </p>
 
-We at Timber are dedicated to making the lives of WordPress developers easier by providing the Timber framework. Timber is PHP framework that simplifies the process of building WordPress themes. It enables you to separate the logic of your theme from the presentation layer (twig), making it easier to maintain and update your themes.
+We at Timber are dedicated to making the lives of WordPress developers easier by providing the Timber framework. Timber is a PHP framework that simplifies the process of building WordPress themes. It enables you to separate the logic of your theme from the presentation layer (twig), making it easier to maintain and update your themes.
 
 ## Getting Started
 Start by reading the [Getting Started](https://timber.github.io/docs/v2/getting-started/) guide in the Timber documentation. This guide will walk you through the process of installing Timber and setting up your first theme.
