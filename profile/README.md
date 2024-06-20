@@ -19,4 +19,6 @@ For more information on how to use Timber, check out the [Timber documentation](
 If you're interested in contributing to Timber, please read the [Contributing Guidelines](https://github.com/timber/timber/blob/5fc65f235323e8119fddc3cadbfef39ec97a663a/CONTRIBUTING.md) before submitting a pull request. We welcome all contributions, big or small!
 
 ## Sponsor
-If you'd like to sponsor Timber, you can do so through [Open Collective](https://opencollective.com/timber). All funds donated will be used to support the Timber project.
+If you'd like to sponsor Timber, you can do so through [GitHub Sponsor](https://github.com/sponsors/timber) or [Open Collective](https://opencollective.com/timber). All funds donated will be used to support the Timber project.
+
+<p><a href="https://github.com/sponsors/timber"><img height="34" src="https://img.shields.io/badge/sponsor%20Timber-3ab281?logo=github&logoColor=ffffff" alt="Sponsor Timber"></a></p>
